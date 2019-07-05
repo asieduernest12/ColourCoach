@@ -20,7 +20,7 @@ File > Import > Expand General > Import existing project into eclipse
 
 The main application home screen is organised like a bottom based tab
 
-<img src="home-tab.PNG" alt="Picture showing the home screen of the application">
+<img src="./home-tab.PNG" alt="Picture showing the home screen of the application">
 
 # Show Distinct View
 In this view, the most distinct colours are shown rather than variations of one colour. 
